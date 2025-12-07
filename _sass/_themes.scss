@@ -108,7 +108,8 @@ $xing-color                 : #006567;
    ========================================================================== */
 
 /* Adjusted line height for less gap */
-body {
-  line-height: 1.2;  // Reduced line spacing
+body, p, li {
+  line-height: 1.2 !important;
 }
+
    
