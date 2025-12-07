@@ -9,25 +9,26 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+  #  url: /publications/
+    url: "https://scholar.google.com/citations?user=QhZaIVcAAAAJ&hl=en"
 
-  - title: "Talks"
-    url: /talks/    
+  #- title: "Talks"
+  #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  #- title: "Teaching"
+  #  url: /teaching/    
   - title: "CV"
-    url: /cv/
+  #  url: /cv/
+    url: /files/Abhineswari_M_CV_2026.pdf
     
+  #- title: "Portfolio"
+  #  url: /portfolio/
+        
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #  url: /markdown/
