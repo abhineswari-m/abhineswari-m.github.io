@@ -23,9 +23,13 @@ sensors, bridging the gap between raw pixels and high-level spatial reasoning.
 
 # News
 [05/12/2025] 📢 Starting Capstone Project (Master Thesis 2)
+
 [05/11/2025] 🎉 Completed Mini Project (Master Thesis 1) 
+
 [02/05/2025] 🥳 Started interning @ CI Lab
+
 [05/04/2025] 🎊 MHM-CNN was presented by [Dr. Kaja Mohideen A](https://scholar.google.com/citations?user=pG56bV0AAAAJ&hl=en) at ICTIS 2025, Thailand
+
 [30/01/2025] 🥳 MHM-CNN got accepted at ICTIS 2025, Thailand
 
 ## Miscellaneous
